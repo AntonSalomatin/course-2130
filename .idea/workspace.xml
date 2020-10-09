@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="689742e7-6a93-4ec2-99b2-1df2a22f5f8d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ibcfUM3xxBmxVjPcYQNQb5PNq4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+  </component>
+  <component name="RunManager" selected="Python.template">
+    <configuration name="Проверяюсь" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="course-2130" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/homework_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/homework_1/Проверяюсь.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="template" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="course-2130" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/homework_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/homework_1/template.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weather_api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="course-2130" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/homework_1/subtask2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/homework_1/subtask2/weather_api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weather_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="course-2130" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/homework_1/subtask2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/homework_1/subtask2/weather_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.template" />
+        <item itemvalue="Python.weather_api" />
+        <item itemvalue="Python.weather_bot" />
+        <item itemvalue="Python.Проверяюсь" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="689742e7-6a93-4ec2-99b2-1df2a22f5f8d" name="Default Changelist" comment="" />
+      <created>1602179834919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602179834919</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="19" key="#Inspections" timestamp="1602238220135">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="267" y="19" key="#Inspections/0.0.1280.680@0.0.1280.680" timestamp="1602238220135" />
+    <state x="455" y="50" width="733" height="581" key="#Python" timestamp="1602220427522">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="455" y="50" width="733" height="581" key="#Python/0.0.1280.680@0.0.1280.680" timestamp="1602220427522" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1602255750980">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602255750980" />
+    <state width="1259" height="195" key="GridCell.Tab.0.bottom" timestamp="1602256036582">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="195" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602256036582" />
+    <state width="1259" height="195" key="GridCell.Tab.0.center" timestamp="1602256036582">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="195" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602256036582" />
+    <state width="1259" height="195" key="GridCell.Tab.0.left" timestamp="1602256036581">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="195" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602256036581" />
+    <state width="1259" height="195" key="GridCell.Tab.0.right" timestamp="1602256036582">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="195" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602256036582" />
+    <state width="1259" height="195" key="GridCell.Tab.1.bottom" timestamp="1602256036584">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="195" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602256036584" />
+    <state width="1259" height="195" key="GridCell.Tab.1.center" timestamp="1602256036583">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="195" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602256036583" />
+    <state width="1259" height="195" key="GridCell.Tab.1.left" timestamp="1602256036582">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="195" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602256036582" />
+    <state width="1259" height="195" key="GridCell.Tab.1.right" timestamp="1602256036583">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="195" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602256036583" />
+    <state x="157" y="0" key="SettingsEditor" timestamp="1602221447948">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="157" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602221447948" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602222997500">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1602222997500" />
+  </component>
+</project>
